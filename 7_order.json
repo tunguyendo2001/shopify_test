@@ -1,0 +1,160 @@
+{
+  "data": {
+    "customer": {
+      "displayName": "Học Tập",
+      "orders": {
+        "edges": [
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:17:05Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 400,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 10,
+                      "product": {
+                        "title": "cold darkness"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 11,
+                      "product": {
+                        "title": "Iphone 10x"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 34,
+                      "product": {
+                        "title": "shy pine"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 100,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 5,
+                      "product": {
+                        "title": "Thinkpad T43"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 89,
+                      "product": {
+                        "title": "Ỷ thiên kiếm"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:30:32Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 46,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 60,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 80,
+                      "product": {
+                        "title": "Hột nhãn"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 45,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 55,
+                      "product": {
+                        "title": "Nestea chanh muối"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 69,
+                      "product": {
+                        "title": "shy pine"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 10,
+                      "product": {
+                        "title": "Thinkpad T43"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 180,
+                      "product": {
+                        "title": "Ỷ thiên kiếm"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 233,
+      "actualQueryCost": 39,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 961,
+        "restoreRate": 50
+      }
+    }
+  }
+}

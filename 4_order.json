@@ -1,0 +1,152 @@
+{
+  "data": {
+    "customer": {
+      "displayName": "John Error",
+      "orders": {
+        "edges": [
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:18:58Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 45,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 29,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 87,
+                      "product": {
+                        "title": "lively brook"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 25,
+                      "product": {
+                        "title": "shy pine"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 50,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 5,
+                      "product": {
+                        "title": "Đồ Long Đao"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:27:19Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 45,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 47,
+                      "product": {
+                        "title": "cold darkness"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 12,
+                      "product": {
+                        "title": "Iphone 10x"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 60,
+                      "product": {
+                        "title": "shy pine"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 145,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 31,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 233,
+      "actualQueryCost": 37,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 963,
+        "restoreRate": 50
+      }
+    }
+  }
+}

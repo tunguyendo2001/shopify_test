@@ -1,0 +1,120 @@
+{
+  "data": {
+    "customer": {
+      "displayName": "2Good Fan",
+      "orders": {
+        "edges": [
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:15:04Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 50,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 50,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 8,
+                      "product": {
+                        "title": "Hột nhãn"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 35,
+                      "product": {
+                        "title": "Sữa milo Limited"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 101,
+                      "product": {
+                        "title": "Ỷ thiên kiếm"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "createdAt": "2022-05-12T19:18:06Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 24,
+                      "product": {
+                        "title": "Hột nhãn"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 5,
+                      "product": {
+                        "title": "Iphone 10x"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 45,
+                      "product": {
+                        "title": "Nestea chanh muối"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 98,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 233,
+      "actualQueryCost": 29,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 971,
+        "restoreRate": 50
+      }
+    }
+  }
+}

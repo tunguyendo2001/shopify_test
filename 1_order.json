@@ -1,0 +1,95 @@
+{
+  "data": {
+    "customer": {
+      "displayName": "Mẫn Triệu",
+      "orders": {
+        "edges": [
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:21:56Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 26,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 8,
+                      "product": {
+                        "title": "Iphone 10x"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 19,
+                      "product": {
+                        "title": "Nestea chanh muối"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 14,
+                      "product": {
+                        "title": "shy pine"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 80,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 100,
+                      "product": {
+                        "title": "Ỷ thiên kiếm"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "Đồ Long Đao"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 233,
+      "actualQueryCost": 22,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 978,
+        "restoreRate": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "customer": {
+      "displayName": "Đào Thượng",
+      "orders": {
+        "edges": [
+          {
+            "node": {
+              "createdAt": "2022-05-10T11:25:54Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 56,
+                      "product": {
+                        "title": "Burton Custom Freestyle 151"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 71,
+                      "product": {
+                        "title": "cold darkness"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 19,
+                      "product": {
+                        "title": "Hột nhãn"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 46,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 66,
+                      "product": {
+                        "title": "Nestea chanh muối"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 30,
+                      "product": {
+                        "title": "solitary sea"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 21,
+                      "product": {
+                        "title": "Sữa milo Limited"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 98,
+                      "product": {
+                        "title": "Đồ Long Đao"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "createdAt": "2022-05-12T19:16:55Z",
+              "lineItems": {
+                "edges": [
+                  {
+                    "node": {
+                      "quantity": 19,
+                      "product": {
+                        "title": "autumn fog"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 35,
+                      "product": {
+                        "title": "cold darkness"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 20,
+                      "product": {
+                        "title": "Hột nhãn"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 55,
+                      "product": {
+                        "title": "Kẹo cà phê Coffeeshot Cappuccino KOPIKO gói 150g"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 80,
+                      "product": {
+                        "title": "Ỷ thiên kiếm"
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "quantity": 35,
+                      "product": {
+                        "title": "Đồ Long Đao"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 233,
+      "actualQueryCost": 37,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 963,
+        "restoreRate": 50
+      }
+    }
+  }
+}
